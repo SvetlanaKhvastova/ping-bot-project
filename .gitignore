@@ -1,0 +1,17 @@
+node_modules/
+
+.env
+.env.local
+.env.production
+
+*.db
+bot.db
+
+*.log
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
